@@ -1,0 +1,51 @@
+export const events = [
+    {
+        image: '/images/event1.png',
+        title: 'React Conf 2024',
+        slug: 'react-conf-2024',
+        location: 'Las Vegas, NV',
+        date: '2024-12-10',
+        time: '9:00 AM - 6:00 PM',
+    },
+    {
+        image: '/images/event2.png',
+        title: 'Next.js Conference',
+        slug: 'nextjs-conference-2024',
+        location: 'San Francisco, CA',
+        date: '2024-11-15',
+        time: '10:00 AM - 5:00 PM',
+    },
+    {
+        image: '/images/event3.png',
+        title: 'DevHack 2024',
+        slug: 'devhack-2024',
+        location: 'New York, NY',
+        date: '2024-10-20',
+        time: '8:00 AM - 8:00 PM',
+    },
+    {
+        image: '/images/event4.png',
+        title: 'TypeScript Summit',
+        slug: 'typescript-summit-2024',
+        location: 'Seattle, WA',
+        date: '2024-11-05',
+        time: '9:30 AM - 5:30 PM',
+    },
+    {
+        image: '/images/event5.png',
+        title: 'AI & ML Developers Meetup',
+        slug: 'ai-ml-developers-meetup',
+        location: 'Austin, TX',
+        date: '2024-10-28',
+        time: '6:00 PM - 9:00 PM',
+    },
+    {
+        image: '/images/event6.png',
+        title: 'Full Stack Hackathon',
+        slug: 'full-stack-hackathon-2024',
+        location: 'Boston, MA',
+        date: '2024-11-22',
+        time: '9:00 AM - 9:00 PM',
+    },
+];
+
